@@ -158,7 +158,7 @@ namespace Ejercicio2Guía1
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe Print", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(140)))), ((int)(((byte)(69)))));
-            this.label5.Location = new System.Drawing.Point(1, 49);
+            this.label5.Location = new System.Drawing.Point(1, 48);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(317, 33);
             this.label5.TabIndex = 5;
